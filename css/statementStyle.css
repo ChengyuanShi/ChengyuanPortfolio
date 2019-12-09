@@ -11,11 +11,16 @@ h1{
   color:#b969ff;
   font-size: 60pt;
 font-family: 'Shadows Into Light', cursive;
-  text-align:right;
-}
+  text-align:center;}
 h2{
   color:#ff69af;
   font-size: 20pt;
 font-family: 'Shadows Into Light', cursive;
-  text-align:right;
+  text-align:center;
+}
+
+.p{
+margin-left: 1000px;
+margin-right:100px;
+
 }
