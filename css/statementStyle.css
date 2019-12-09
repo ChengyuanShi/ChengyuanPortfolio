@@ -3,29 +3,19 @@
 body{
 
 font-family: 'Shadows Into Light', cursive;
-  background-image: url("../images/q.gif");
+  background-image: url("../images/w.gif");
+  background-size:cover;
   text-align: center;
 }
 h1{
   color:#b969ff;
   font-size: 60pt;
 font-family: 'Shadows Into Light', cursive;
-  text-align: center;
+  text-align:right;
 }
 h2{
   color:#ff69af;
   font-size: 20pt;
 font-family: 'Shadows Into Light', cursive;
-  text-align: center;
-}
-a{color:#ff69af;
-  font-size: 60pt;
-font-family: 'Shadows Into Light', cursive;}
-nav a {
-  margin: 40px;
-  padding: 40px;
-}
-a:hover{
-  color:white;
-text-decoration: none;
+  text-align:right;
 }
