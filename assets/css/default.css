@@ -879,21 +879,21 @@
 /* Background Color */
 
 .gray-bg {
-	background: #151A38;
+	background: #F8F8F8;
 }
 .white-bg {
-	background: #151A38;
+	background: #fff;
 }
 .black-bg {
-	background: #151A38;
+	background: #222;
 }
 /* Color */
 
 .white {
-	color: #151A38;
+	color: #fff;
 }
 .black {
-	color: #151A38;
+	color: #222;
 }
 /* black overlay */
 
